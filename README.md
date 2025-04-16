@@ -74,7 +74,7 @@ Welcome to Sault, your trusted document management solution that leverages block
 ### Installation
 
 ```bash
-git clone https://github.com/ashwinkothavade/HackByte3.0
+git clone https://github.com/PRIYANSH-2004/Sault.git
 cd sault
 npm install
 cp .env.example .env
