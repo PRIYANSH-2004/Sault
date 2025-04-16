@@ -5,6 +5,7 @@ Welcome to Sault, your trusted document management solution that leverages block
 <img src="./public/sault.png" alt="Sault Logo" width="500" />
 
 [Live Demo Video](https://youtu.be/LxioW6BvH2o)
+[Live Link](https://sault.codemon.tech/)
 
 ---
 
